@@ -1,5 +1,5 @@
 {
-    "name": "easy-spaces-lwc",
+    "name": "@salesforce/easy-spaces-lwc",
     "private": true,
     "version": "1.0.0",
     "description": "Easy Spaces Sample App - Lightning Web Components",
